@@ -9,15 +9,16 @@
 
 [![Weda Locode](https://img.shields.io/static/v1?label=Weda&message=Lowcode&color=blue&style=flat-square)](https://weda.cloud.tencent.com/)
   <a href="https://cloud.tencent.com/document/product/1301/67121"><img src="https://img.shields.io/badge/Docs-yellow?logo=gitbook&logoColor=black"/></a>
-[![Build Status](https://img.shields.io/github/actions/workflow/status/enimo/weda_private/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/enimo/weda_private/actions)
 [![Issues](https://img.shields.io/github/issues/enimo/weda_private)](https://github.com/enimo/weda_private/issues) 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/enimo/weda_private/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/enimo/weda_private/actions)
 
 </p>
 
 <br />
 
-[![介绍视频](https://qcloudimg.tencent-cloud.cn/raw/ac3f2e535614ba04af3013b1bf27adca.mp4)](./img/weda_pd_intro.mp4)
-
+<p align="center">
+<img src="img/weda_intro.gif" alt="WedaIntroVideo" height="480">
+</p>
 
 
 ## 🌟 特点
@@ -33,8 +34,9 @@
 - 🤖 **AI大模型支持**：支持AI大模型的应用构建能力，使开发者能够轻松集成先进的AI技术
 
 
-![WedaIntro](img/weda_intro1.png)
-
+<p align="center">
+<img src="img/weda_intro1.png" alt="WedaIntro1" height="480">
+</p>
 
 ## 🚀 快速开始
 
@@ -43,7 +45,9 @@
 3. **配置数据库**：使用内置数据库，或者连接到您的自有数据库
 4. **启动**：启动平台，开始您的微搭低代码本地开发之旅
 
-![WedaIntro](img/weda_intro2.png)
+<p align="center">
+<img src="img/weda_intro2.png" alt="WedaIntro2" height="480">
+</p>
 
 ## 📚 文档
 
