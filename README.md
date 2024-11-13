@@ -17,7 +17,7 @@ Weda Low-Code Platform is an official low-code development platform launched by 
 </p>
 
 <p align="center">
-<img src="img/weda_intro1.png" alt="WedaIntro1" height="480">
+<img src="assets/weda_intro1.png" alt="WedaIntro1" height="480">
 </p>
 
 
@@ -35,27 +35,27 @@ Weda Low-Code Platform is an official low-code development platform launched by 
 
 
 <p align="center">
-<img src="img/weda_intro2.png" alt="WedaIntro2" height="480">
+<img src="assets/weda_intro2.png" alt="WedaIntro2" height="480">
 </p>
 
 ## 🚀 快速开始 (Quick Start)
 
-1. **获取部署包**：下载部署代码包到本地，参考 [微搭私有部署官网](https://tcb.cloud.tencent.com/weda-software)
-2. **部署**：运行部署脚本，按照文档提示完成部署，参考 [部署文档](https://docs.cloudbase.net/lowcode/private/deploy)
+1. **获取部署包**：下载部署代码包到本地，参考 [微搭私有部署官网](https://tcb.cloud.tencent.com/weda-software?from=github)
+2. **部署**：运行部署脚本，按照文档提示完成部署，参考 [部署文档](https://docs.cloudbase.net/lowcode/private/deploy?from=github)
 3. **配置数据库**：使用内置数据库，或者连接到您的自有数据库
 4. **启动**：启动平台，开始您的微搭低代码本地开发之旅
 
 <p align="center">
-<img src="img/weda_intro.gif" alt="WedaIntroVideo" height="480">
+<img src="assets/weda_intro.gif" alt="WedaIntroVideo" height="480">
 </p>
 
 
 ## 📚 文档 (Documentation)
 
 详细文档请访问
-- [微搭低代码产品使用文档](https://cloud.tencent.com/document/product/1301/67121)
-- [微搭私有部署官网](https://tcb.cloud.tencent.com/weda-software)
-- [私有化部署相关文档](https://docs.cloudbase.net/lowcode/private/deploy)
+- [微搭低代码产品使用文档](https://cloud.tencent.com/document/product/1301/67121?from=github)
+- [微搭私有部署官网](https://tcb.cloud.tencent.com/weda-software?from=github)
+- [私有化部署相关文档](https://docs.cloudbase.net/lowcode/private/deploy?from=github)
 
 ## 🤝 贡献 (Contribution)
 
@@ -64,4 +64,4 @@ Weda Low-Code Platform is an official low-code development platform launched by 
 
 ---
 
-微搭低代码平台，让开发更简单，让AI构建应用更快速。[立即开始](https://weda.cloud.tencent.com/) 低代码开发之旅。
+微搭低代码平台，让开发更简单，让AI构建应用更快速。[立即开始](https://weda.cloud.tencent.com/?from=github) 低代码开发之旅。
